@@ -34,6 +34,7 @@ A modern, professional, and user-friendly **Portfolio Website** built as part of
 | Framer Motion   | Animation and motion effects     |
 | Three.js/Spline | 3D design and animations (if used)|
 | Vercel/Netlify  | Hosting and deployment           |
+| **AI Tools**   | Used for UI inspiration and design refinement |
 
 ---
 
